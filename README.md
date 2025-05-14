@@ -10,7 +10,7 @@
 
 > This is one of the best bots created by ICEBACK-TECHIES n GlobalTechKings. Deploy and Enjoy. Note The bot has over 400+ features 
 
-![KingZord263](https://files.catbox.moe/38tp1u.jpg)
+![KingZord263](https://files.catbox.moe/9ce955.jpg)
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+MADMAX-BUG-V1+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
@@ -22,7 +22,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=MADMAX-BUG-V1;➣𖤛 ꙰ALPHA-KING ᭡ ꙰𖤛➣)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=110&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=MADMAX-BUG-V1)
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
