@@ -31,7 +31,7 @@
 
 
 
-![Downloadme](https://www.mediafire.com/file/l2857ro94pcjw4e/MAD-MAX%255BBUG-VERSION_AND_CPANEL%255D.zip/file)
+<link>https://www.mediafire.com/file/l2857ro94pcjw4e/MAD-MAX%255BBUG-VERSION_AND_CPANEL%255D.zip/file)</link>
 ---
 
 ## 🚀 Deployment Steps❄ 
