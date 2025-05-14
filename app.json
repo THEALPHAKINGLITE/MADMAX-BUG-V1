@@ -1,0 +1,42 @@
+{
+  "name": "MADMAX-BUG",
+  "description": "Whiskey Sockets Baileys Whatsapp bot By Iceback-Technologies",
+  "logo": "https://files.catbox.moe/38tp1u.jpg",
+  "keywords": ["ICEBACK-XMD"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your  session-id here.",
+      "required": true,
+      "value": ""
+    },
+    "PREFIX": {
+      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "required": false,
+      "value": "."
+    },
+  
+    "OWNER_NUMBER": {
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "263718728504"
+    },
+    "BOT_NAME": {
+      "description": "Type here the bot name.",
+      "required": false,
+      "value": "MADMAX-BUG-V1"
+    },
+    "BOT_IMAGE": {
+      "description": "Put link for Bot Menu Image e.g https://",
+      "required": false,
+      "value": "https://files.catbox.moe/38tp1u.jpg"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+}

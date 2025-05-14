@@ -1,0 +1,16 @@
+{
+  "name": "𝕷𝕬𝕯𝖄𝕭𝖀𝕲 𝕸𝕯 1.2.0",
+  "description": "For deploying 𝕷𝕬𝕯𝖄𝕭𝖀𝕲 𝕸𝕯 1.2.0.",
+  "repository": "https://github.com/mrntandooofc/Ladybug-MD",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
