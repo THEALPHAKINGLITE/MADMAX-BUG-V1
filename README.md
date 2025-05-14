@@ -105,7 +105,7 @@ First star & Fork the repo using the button below!
 
 
 
-![Background Image](https://files.catbox.moe/3z60b8.jpg)
+![Background Image](https://files.catbox.moe/7s3bkp.jpg)
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
@@ -143,4 +143,6 @@ BESIDES THIS BOT WHICH ONE WOULD YOU BEATS IT
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+# COMING SOON 
 
+![COMING](https://files.catbox.moe/lrcp4h.jpg)
