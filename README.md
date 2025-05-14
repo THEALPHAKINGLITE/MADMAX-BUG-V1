@@ -59,7 +59,7 @@ First star & Fork the repo using the button below!
 #### ❄  OPTION TWO
 [![SCAN_CODE_1](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrender.com/scan)
 
-[![SCAN_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrender2.com/qr)
+[![SCAN_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug2.onrender.com/qr)
 
 > Connection issues may require VPN activation.
 
