@@ -42,9 +42,9 @@ First star & Fork the repo using the button below!
 
 ### 2. Get Session ID
 ### ❄  PORTAL CODES
-[![PORTAL_CODE 1](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrender.com/)
+[![PORTAL_CODE 1](https://img.shields.io/badge/PORTAL_CODE1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug.onrender.com/)
 
-[![PORTAL_CODE 2](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug2.onrender.com/)
+[![PORTAL_CODE 2](https://img.shields.io/badge/PORTAL_CODE2-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://madmax-bug2.onrender.com/)
 
 
 #### ❄  OPTION ONE
